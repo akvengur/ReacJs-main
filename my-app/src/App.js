@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
      <Hello division="A"></Hello>
-    <Profile name="kSHITIJA" surname="pagare">
+    <Profile name="Akshata" surname="Vengurlekar">
       <h3>Welcome to our page</h3>
     </Profile>
      
